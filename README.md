@@ -1,4 +1,4 @@
-# DocScanner-windows
+# WinDocScan-windows
 Document scanner for Windows (CamScanner-like) built with Python, OpenCV and CustomTkinter
 
 # DocScanner PDF
